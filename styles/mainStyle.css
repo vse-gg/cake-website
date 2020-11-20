@@ -68,6 +68,11 @@
 @import url("End/end_rec.css");
 @import url("End/phr_s.css");
 
+@media (max-width: 1022px) {
+	body {
+		width: 100%
+	}
+}
 
 .end {
 	height: 82px;
