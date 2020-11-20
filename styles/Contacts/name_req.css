@@ -1,0 +1,9 @@
+.name_req {
+	width: 255px;
+	height: 72px;
+
+	font-family: "Century Gothic";
+	font-size: 24px;
+
+	color: black;
+}

@@ -1,0 +1,12 @@
+.our_part {
+	width: max-content;
+	height: 43px;
+
+	font-family: "Century Gothic";
+	font-weight: 600;
+	font-size: 36px;
+
+	color: #FFFFFF;
+
+	margin-bottom: 60px;
+}

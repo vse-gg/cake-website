@@ -1,0 +1,149 @@
+@import url("PriceList/block_container.css");
+@import url("PriceList/block.css");
+@import url("PriceList/num_style.css");
+@import url("PriceList/name_style.css");
+@import url("PriceList/price_style.css");
+
+@import url("TopTitle/top_title.css");
+@import url("TopTitle/title_style.css");
+@import url("TopTitle/under_title_style.css");
+
+@import url("Descript/descript_container.css");
+@import url("Descript/rectangle.css");
+@import url("Descript/type.css");
+@import url("Descript/descr.css");
+
+@import url("Descript/head_centr.css");
+
+@import url("BigRectangle/big_rec.css");
+@import url("BigRectangle/top_inscrip.css");
+@import url("BigRectangle/bott_inscrip.css");
+@import url("BigRectangle/request.css");
+@import url("BigRectangle/words.css");
+@import url("BigRectangle/b_r.css");
+@import url("BigRectangle/i_re.css");
+
+@import url("Range/wdwb.css");
+@import url("Range/list.css");
+@import url("Range/square.css");
+@import url("Range/text.css");
+
+@import url("Pies/pic_pir.css");
+
+@import url("Answers/answ.css");
+@import url("Answers/line.css");
+@import url("Answers/quest.css");
+@import url("Answers/arrow.css");
+@import url("Answers/arrow_t.css");
+@import url("Answers/lorem.css");
+
+@import url("GrayRectangle/our_part.css");
+@import url("GrayRectangle/in_rect.css");
+@import url("GrayRectangle/blk.css");
+@import url("GrayRectangle/inst.css");
+@import url("GrayRectangle/name_inst.css");
+@import url("GrayRectangle/let.css");
+
+@import url("Reviwe/your_rev.css");
+@import url("Reviwe/top_l.css");
+@import url("Reviwe/squ.css");
+@import url("Reviwe/quo.css");
+@import url("Reviwe/reviwe.css");
+@import url("Reviwe/bot_l.css");
+@import url("Reviwe/who.css");
+@import url("Reviwe/col.css");
+
+@import url("OrangeRectangle/sp.css");
+@import url("OrangeRectangle/work.css");
+@import url("OrangeRectangle/fir.css");
+@import url("OrangeRectangle/sec.css");
+
+@import url("Contacts/conts.css");
+@import url("Contacts/oth.css");
+@import url("Contacts/bad.css");
+@import url("Contacts/req.css");
+@import url("Contacts/name_req.css");
+@import url("Contacts/wind.css");
+
+@import url("End/end_rec.css");
+@import url("End/phr_s.css");
+
+
+.end {
+	height: 82px;
+	background: #404149;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: 150px;
+}
+
+.contacts {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.orange_rect {
+	height: 181px;
+	background: #F7654A;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 150px;
+
+}
+
+.space {
+	width: 1110px;
+}
+
+
+.rev {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+
+.gray_rect {
+	height: 364px;
+	background: #404149;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin-top: 150px;
+}
+
+.column-main {
+	width: 1110px;
+}
+
+.questions {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+
+.bblock{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.range {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+* {
+	box-sizing: border-box;
+}

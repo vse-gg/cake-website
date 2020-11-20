@@ -1,0 +1,13 @@
+.req {
+	width: 255px;
+	height: 29px;
+
+	color: gray;
+
+	font-family: "Century Gothic";
+	font-weight: 600;
+	font-size: 24px;
+
+	margin-bottom: 25px;
+	margin-top: 36px;
+}

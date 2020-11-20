@@ -1,0 +1,12 @@
+.request {
+	width: max-content;
+	height: 49px;
+	background: white;
+
+	padding: 14px 30px;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
