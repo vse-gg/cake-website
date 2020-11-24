@@ -9,9 +9,14 @@
 
 	position: relative;
 	height: 740px;
-	background: url('../../imgs/title_img.png')  no-repeat;
+	background: url('../../imgs/title_img.png')  no-repeat center;
 	background-size: 100% auto;
-	
+}
 
-	
+
+@media (max-width: 1940px) {
+	.top_title {
+		background-size: auto;
+		width: 100%
+	}
 }

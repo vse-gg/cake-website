@@ -9,3 +9,7 @@
     margin-top: 60px;
 
 }
+
+.descript_container > .column > .pic {
+	cursor: pointer;
+}
