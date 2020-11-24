@@ -1,0 +1,14 @@
+.num {
+	font-family: "Century Gothic";
+	font-style: normal;
+	font-size: 72px;
+	font-weight: 600;
+	color: #F7654A;
+
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+
+	width: 190px;
+	height: 86px;
+}

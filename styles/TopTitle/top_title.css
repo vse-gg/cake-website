@@ -1,0 +1,17 @@
+.top_title {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+
+
+	padding-top: 192px;
+
+	position: relative;
+	height: 740px;
+	background: url('../../imgs/title_img.png')  no-repeat;
+	background-size: 100% auto;
+	
+
+	
+}

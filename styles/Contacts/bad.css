@@ -1,3 +1,5 @@
 .bad {
-	fill: #F7654A;
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
 }

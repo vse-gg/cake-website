@@ -3,7 +3,15 @@
 	height: 72px;
 
 	font-family: "Century Gothic";
+	font-weight: 600;
 	font-size: 24px;
 
 	color: black;
+
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+	text-align: center;
+
+	margin-top: 25px;
 }

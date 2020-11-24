@@ -1,0 +1,14 @@
+.text{
+    display: flex;
+    flex-wrap: wrap;
+	width: 185px;
+	height: 62px;
+	text-align: center;
+
+	font-family: "Century Gothic";
+	
+	font-size: 21px;
+
+	margin-top: 30px;
+	color: black;
+}

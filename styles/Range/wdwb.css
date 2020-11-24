@@ -1,0 +1,13 @@
+.wdwb {
+	width: max-content;
+	height: 43px;
+
+	font-family: "Century Gothic";
+	font-weight: 600;
+    font-size: 36px;
+
+    color: black;
+
+    margin-top: 150px;
+    margin-bottom: 60px;
+}
