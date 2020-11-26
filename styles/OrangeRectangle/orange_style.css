@@ -1,0 +1,35 @@
+.fir {
+	width: max-content;
+	height: 57px;
+
+	font-family: "Century Gothic";
+	font-weight: 600;
+	font-size: 48px;
+	color: #FFFFFF;
+
+	margin-bottom: 20px;
+}
+
+.sec {
+	width: 562px;
+	height: 29px;
+
+	font-family: "Century Gothic";
+	font-size: 24px;
+	font-weight: 600;
+	color: #FFFFFF;
+}
+
+.sp {
+	width: 1110px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.work {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-start;
+}

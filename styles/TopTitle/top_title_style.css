@@ -1,0 +1,78 @@
+.title {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	text-align: center;
+
+	width: 750px;
+
+	height: max-content;
+
+	font-family: "Century Gothic";	
+	font-size: 64px;
+	color: white;
+
+	padding-bottom: 35px;
+}
+
+
+.under_title {   
+	font-family: "Century Gothic";	
+	font-size: 18px;
+	color: white;
+}
+
+
+.top_title {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+
+	padding-top: 30px;
+
+	position: relative;
+	height: 740px;
+	background: url('../../imgs/title_img.png')  no-repeat center;
+	background-size: 100% auto;
+}
+
+
+@media (max-width: 1940px) {
+	.top_title {
+		background-size: auto;
+		width: 100%
+	}
+}
+
+.icons {
+	width: 1110px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.menu {
+	width: 50px;
+	height: 50px;
+
+	background: #F7654A;
+	margin-bottom: 112px;
+	
+	padding-top: 13px;
+}
+
+.inss {
+	height: 24px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-around;
+}
+
+.ins {
+	width: 21px;
+	height: 3px;
+	background: white;
+}

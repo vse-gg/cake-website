@@ -1,0 +1,71 @@
+.descr {
+	width: 350px;
+	height: 83px;
+
+	font-family: "Century Gothic";
+	font-style: normal;
+	font-size: 16px;
+	color: #999999;
+
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-start;
+
+	margin-top: 20px;
+}
+
+
+.descript_container {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+
+	width: 1110px;
+	height: 681px;
+
+    margin-top: 60px;
+
+}
+
+.descript_container > .column > .pic {
+	cursor: pointer;
+}
+
+
+.head_centr {
+
+	width: 506px;
+	height: 43px;
+
+	font-family: "Century Gothic";
+	font-weight: 600;
+	font-size: 36px;
+	
+	color: #404149;
+
+	margin-top: 100px;
+}
+
+.rectangle {
+	width: 55px;
+	height: 6px;
+	background: #F7654A;
+	margin-top: 45px;
+}
+
+.type {
+	width: 142px;
+	height: 29px;
+
+	font-family: "Century Gothic";
+	font-style: normal;
+	font-size: 24px;
+	font-weight: 600;
+
+	display: flex;
+	justify-content: flex-start;
+
+	color: #404149;
+
+	margin-top: 15px;
+}

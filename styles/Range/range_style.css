@@ -1,0 +1,51 @@
+.list {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	width: 1140px;
+}
+
+.square {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+	width: 350px;
+	height: 250px;
+
+	background: #F7F7F7;
+
+	margin-right: 30px;
+	margin-bottom: 30px;
+}
+
+.text{
+    display: flex;
+    flex-wrap: wrap;
+	width: 185px;
+	height: 62px;
+	text-align: center;
+
+	font-family: "Century Gothic";
+	
+	font-size: 21px;
+
+	margin-top: 30px;
+	color: black;
+}
+
+.wdwb {
+	width: max-content;
+	height: 43px;
+
+	font-family: "Century Gothic";
+	font-weight: 600;
+    font-size: 36px;
+
+    color: black;
+
+    margin-top: 150px;
+    margin-bottom: 60px;
+}

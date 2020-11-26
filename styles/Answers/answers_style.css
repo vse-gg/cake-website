@@ -1,0 +1,58 @@
+.answ {
+	width: max-content;
+	height: 53px;
+
+	margin-top: 150px;
+	margin-bottom: 50px;
+
+	font-family: "Century Gothic";
+	font-weight: 600;
+	font-size: 36px;
+
+	color: black;
+}
+
+.arrow {
+	border: 10px solid transparent;
+	border-left: 10px solid #F7654A;
+
+	width: max-content;
+	height: 15px;	
+}
+
+.arrow_t {
+	border: 10px solid transparent;
+	border-bottom: 10px solid #F7654A;
+
+	width: max-content;
+	height: 15px;
+}
+
+.line {
+	display: flex;	
+}
+
+.lorem {
+	width: 730px;
+	height: 83px; 
+
+	font-family: "Century Gothic";
+	font-size: 16px;
+	color: #999999;
+
+	margin-bottom: 40px;
+}
+
+.quest {
+	width: max-content;
+	height: 29px;
+
+	font-family: "Century Gothic";	
+	font-weight: 600;
+	font-size: 24px;
+
+	color: #F7654A;
+
+	margin-left: 15px;
+	margin-bottom: 40px;
+}

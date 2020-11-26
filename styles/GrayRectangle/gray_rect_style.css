@@ -1,0 +1,45 @@
+.blk {
+	width: 170px;
+	height: 61px;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.in_rect {
+	width: 1110px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.inst {
+	font-family: "Century Gothic";
+	font-size: 12px;
+	color: #D3D3D3;
+}
+
+.let {
+	color: #FFC900;
+}
+
+.name_inst {
+	font-family: "Century Gothic";
+	font-size:36px;
+	color: #D3D3D3;
+}
+
+.our_part {
+	width: max-content;
+	height: 43px;
+
+	font-family: "Century Gothic";
+	font-weight: 600;
+	font-size: 36px;
+
+	color: #FFFFFF;
+
+	margin-bottom: 60px;
+}

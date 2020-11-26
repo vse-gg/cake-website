@@ -1,0 +1,75 @@
+.bot_l {
+	width: 1110px;
+
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.col {
+	color: #F7654A;
+}
+
+.quo {
+	width: 42px;
+	
+	quotes: "\201c";
+
+	font-family: "Century Gothic";
+	font-weight: bold;
+	font-size: 62px;
+
+	color: #F7654A;
+}
+
+.reviwe {
+	width: 290px;
+
+	font-family: "Century Gothic";
+	font-size: 14px;
+
+	color: gray;
+}
+
+.squ {
+	width: 350px;
+	height: 259px;
+
+	background: #F7F7F7;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: space-between;
+
+	padding-left: 30px;
+}
+
+.top_l {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.who {
+	font-family: "Century Gothic";
+	font-size: 18px;
+	font-weight: 550;
+	color: black;
+	
+	width: 350px;
+	height: 25px;
+
+	margin-top: 30px;
+}
+
+.your_rev {
+	width: max-content;
+	height: 53px;
+
+	font-family: "Century Gothic";
+	font-weight: 600;
+	font-size: 36px;
+
+	margin-top: 150px;
+	margin-bottom: 64px;
+}
