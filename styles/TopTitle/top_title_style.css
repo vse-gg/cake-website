@@ -51,6 +51,9 @@
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
+
+	
+	margin-bottom: 112px;
 }
 
 .menu {
@@ -58,7 +61,6 @@
 	height: 50px;
 
 	background: #F7654A;
-	margin-bottom: 112px;
 	
 	padding-top: 13px;
 }
@@ -75,4 +77,10 @@
 	width: 21px;
 	height: 3px;
 	background: white;
+}
+
+.vector {
+	width: 60px;
+	height: 60px;
+
 }
