@@ -15,6 +15,12 @@
 	align-items: center;
 }
 
+@media (max-width: 1110px) {
+	.in_rect {
+		width: 100%;
+		padding:0 20px;	}
+}
+
 .inst {
 	font-family: "Century Gothic";
 	font-size: 12px;

@@ -6,6 +6,12 @@
 	width: 1140px;
 }
 
+@media (max-width: 1110px) {
+	.list {
+		width: 760px;
+	}
+}
+
 .square {
 	display: flex;
 	flex-direction: column;

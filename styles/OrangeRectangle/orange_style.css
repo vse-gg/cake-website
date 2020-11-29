@@ -27,9 +27,21 @@
 	justify-content: space-between;
 }
 
+@media (max-width: 1110px) {
+	.sp {
+		flex-direction: column;
+	}
+}
+
 .work {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	align-items: flex-start;
+}
+
+@media (max-width: 1110px) {
+	.work {
+		align-items: center;
+	}
 }

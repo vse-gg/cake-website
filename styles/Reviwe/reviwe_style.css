@@ -1,10 +1,18 @@
-.bot_l {
+/*.bot_l {
 	width: 1110px;
 
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
 }
+
+@media (max-width: 1110px) {
+	.bot_l {
+		flex-direction: column;
+		justify-content: flex-start;
+		height: auto;
+	}
+}*/
 
 .col {
 	color: #F7654A;
@@ -45,10 +53,19 @@
 }
 
 .top_l {
+	margin-right: 30px;
 	display: flex;
+	flex-direction: column;
 	justify-content: space-between;
 	align-items: center;
 }
+
+@media (max-width: 1110px) {
+	.top_l {
+		padding-bottom: 40px;
+	}
+}
+
 
 .who {
 	font-family: "Century Gothic";

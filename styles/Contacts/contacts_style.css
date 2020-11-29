@@ -42,6 +42,12 @@
 	width: 1110px;
 }
 
+@media (max-width: 1110px) {
+	.oth {
+		width: 100%;
+	}
+}
+
 .req {
 	width: 255px;
 	height: 29px;

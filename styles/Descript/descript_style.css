@@ -54,6 +54,12 @@
 
 	margin-top: 100px;
 }
+ 
+@media (max-width: 1110px) {
+	.head_centr {
+		width: max-content;
+	}
+}
 
 .rectangle {
 	width: 55px;
