@@ -11,7 +11,7 @@
 }
 
 .sec {
-	width: 562px;
+	width: max-content;
 	height: 29px;
 
 	font-family: "Century Gothic";
